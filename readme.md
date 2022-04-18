@@ -64,3 +64,4 @@ git merge dev2 # 把dev2 merge 到master
 git branch -d devname # delete branch
 ```
 
+lcm is so silly
