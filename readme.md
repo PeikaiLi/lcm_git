@@ -28,5 +28,19 @@ git commit -m "first commit"
 
 ```bash
 git restore <filename> # before add
+
+git reflog
+git reset --hard HEAD^
+git reset --hard xxxx
+```
+
+
+
+## stage3
+
+```bash
+git push
+git pull
+git clone 
 ```
 
