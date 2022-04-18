@@ -47,3 +47,12 @@ try news
 123123
 ```
 
+## stage4  in dev2
+
+```bash
+git branch
+git branch newdev
+git checkout newdev
+== git checkout -b newdev
+```
+
