@@ -24,3 +24,9 @@ git commit -m "first commit"
 
 
 
+## stage2
+
+```bash
+git restore <filename> # before add
+```
+
