@@ -50,9 +50,17 @@ try news
 ## stage4  in dev2
 
 ```bash
-git branch
-git branch newdev
-git checkout newdev
+git branch # 查看branch
+git branch newdev # 新建分支
+git checkout newdev # 切换分支
 == git checkout -b newdev
+
+
+git switch -c newdev # create new branch
+git switch dev # 切换分支
+
+
+git merge dev2 # 把dev2 merge 到master
+git branch -d devname # delete branch
 ```
 
