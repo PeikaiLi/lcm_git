@@ -42,5 +42,7 @@ git reset --hard xxxx
 git push
 git pull
 git clone 
+
+try news
 ```
 
